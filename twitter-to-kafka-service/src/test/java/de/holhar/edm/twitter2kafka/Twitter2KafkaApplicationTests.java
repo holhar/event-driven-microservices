@@ -1,10 +1,10 @@
-package de.holhar.event_driven_microservices;
+package de.holhar.edm.twitter2kafka;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EventDrivenMicroservicesApplicationTests {
+class Twitter2KafkaApplicationTests {
 
   @Test
   void contextLoads() {
